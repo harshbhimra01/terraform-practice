@@ -16,17 +16,4 @@ resource "azurerm_resource_group" "name" {
   location = "south india"
 }
 
-resource "azurerm_resource_group" "name" {
-  name = "harsh"
-  location = "south india"
-}
 
-resource "azurerm_resource_group" "name" {
-  name = "harsh"
-  location = "south india"
-}
-
-resource "azurerm_resource_group" "name" {
-  name = "harsh"
-  location = "south india"
-}
