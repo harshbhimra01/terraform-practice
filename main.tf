@@ -18,3 +18,6 @@ resource "azurerm_resource_group" "name" {
 
 
 # merging 2 branches
+
+
+# changed by github
