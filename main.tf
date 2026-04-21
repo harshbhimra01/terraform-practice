@@ -21,3 +21,6 @@ resource "azurerm_resource_group" "name" {
 
 
 # changed by github
+
+
+# 2nd change
