@@ -5,3 +5,8 @@ provider "azurerm" {
 }
 
 
+resource "azurerm_resource_group" "name" {
+  name = "harsh"
+  location = "south india"
+}
+
